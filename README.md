@@ -60,27 +60,20 @@ python agent.py
 ```
 
 ## Структура проекта
+
+```
 pyramid_detector/
-
 ├── agent.py          # LLM-агент и промпт
-
 ├── app.py            # Gradio веб-интерфейс
-
 ├── eval.py           # Оценка качества
-
-├── config.py         # Подключение к LLM
-
+├── config.py         # Подключение к LLM (не коммитить!)
 ├── requirements.txt
-
-├── data/
-
-│   ├── financial_moderation_dataset_10.5k_with_normals.csv
-
-│   ├── eval_results.csv
-
-│   └── confusion_matrix.png
-
-└── README.md
+├── README.md
+└── data/
+    ├── financial_moderation_dataset_10.5k_with_normals.csv
+    ├── eval_results_v2.csv
+    └── confusion_matrix_v2.png
+```
 
 
 ## ⚠️ Дисклеймер
