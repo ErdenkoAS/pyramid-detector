@@ -24,7 +24,7 @@ LLM-агент на основе GigaChat-2 для выявления призн
 | Recall    | 0.767    |
 | F1-score  | 0.821    |
 
-Датасет: [Financial Scam Posts](https://www.kaggle.com/datasets) (10.5k записей, 5 категорий).
+Датасет: [Financial Scam Posts](https://www.kaggle.com/datasets/rmg9725/financial-scam-posts) (10.5k записей, 5 категорий).
 
 ## Стек
 
